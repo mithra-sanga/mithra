@@ -11,7 +11,7 @@ class Ideone
 		int s1=0;
 		Scanner s= new Scanner(System.in);
 		n=s.nextInt();
-		for(i=0;i<n;i++)
+		for(i=1;i<n;i++)
 		{
 			s1=s1+i;
 		}
